@@ -1,7 +1,7 @@
 package inheritance;
 
 class sales {
-	protected int totalSales = 3564;
+	protected int totalSales = 7000;
 	protected int yearSales = totalSales * 12;
 }
 
