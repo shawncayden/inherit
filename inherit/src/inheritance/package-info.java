@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * @author shawn
+ *
+ */
+package inheritance;
